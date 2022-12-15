@@ -4,3 +4,4 @@ import exercici1
 print('Ejercicio 1 hecho por Raul Vaquerizo')
 print('Array diagonal desde 0 hasta 49')
 print(exercici1.diagonal())
+
