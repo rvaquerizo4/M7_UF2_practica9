@@ -1,5 +1,6 @@
 import numpy as np
 
+# Inputs para demanar los valores
 b = int(input('ingresa el tamaño del array'))
 c = int(input('filas'))
 d = int(input('columnas'))
@@ -8,8 +9,6 @@ f = int(input('valor maximo'))
 
 
 def gen():
-    # Inputs para demanar los valores
-
     # array con numeros random por randint y reshapa para el formato
     a = np.random.randint(e, f, size=b).reshape((c, d))
 
@@ -17,7 +16,6 @@ def gen():
 
 
 print(gen())
-
 
 
 def valormax():
