@@ -3,6 +3,7 @@ from numpy import diag
 
 #Importar libreria numpy
 
+
 #Definir funcion
 def diagonal():
     #Declarar array numpy
