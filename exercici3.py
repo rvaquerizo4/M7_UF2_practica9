@@ -9,7 +9,7 @@ f = int(input('valor maximo'))
 
 
 def gen():
-    # array con numeros random por randint y reshapa para el formato
+    # array con numeros random por randint y reshape para el formato
     a = np.random.randint(e, f, size=b).reshape((c, d))
 
     return a
