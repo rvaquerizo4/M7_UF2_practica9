@@ -1,5 +1,6 @@
 import numpy as np
 from numpy import diag
+
 #Importar libreria numpy
 
 
